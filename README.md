@@ -135,7 +135,9 @@ void loop() {
 
 # OUTPUT
 
+![image](https://github.com/user-attachments/assets/7f8aba74-ba47-404f-a9ce-7ee454638207)
 
+![Screenshot 2024-12-30 105928](https://github.com/user-attachments/assets/cbf42a5e-2b7e-4a5f-9b7f-3918db2f0ac8)
 
 # RESULT
 
